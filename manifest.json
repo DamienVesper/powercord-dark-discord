@@ -2,7 +2,7 @@
     "icon": "assets/icon.png",
     "name": "Dark Discord",
     "description": "Discord but dark.",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "author": "Snapperito",
     "theme": "source.css",
     "splashTheme": "splash.css",

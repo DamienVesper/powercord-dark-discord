@@ -1,4 +1,4 @@
-@import url("https://raw.githack.com/LuckFire/theme-source/main/old-theme-source.css");
+@import url("https://damienvesper.github.io/powercord-dark-discord/src/old-theme-source.css");
 
 html.theme-dark .theme-light {
     --header-primary: #fff;
@@ -25,7 +25,7 @@ html.theme-dark .theme-light .footer-2gL1pp {
 }
 
 
-@@keyframes settingsflash
+@keyframes settingsflash
 {
   0%
   {
